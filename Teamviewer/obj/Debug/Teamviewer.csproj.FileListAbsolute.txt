@@ -1,0 +1,10 @@
+D:\Teamviewer\Teamviewer\bin\Debug\Teamviewer.exe.config
+D:\Teamviewer\Teamviewer\bin\Debug\Teamviewer.exe
+D:\Teamviewer\Teamviewer\bin\Debug\Teamviewer.pdb
+D:\Teamviewer\Teamviewer\obj\Debug\Teamviewer.frmMain.resources
+D:\Teamviewer\Teamviewer\obj\Debug\Teamviewer.Properties.Resources.resources
+D:\Teamviewer\Teamviewer\obj\Debug\Teamviewer.frmViewScreen.resources
+D:\Teamviewer\Teamviewer\obj\Debug\Teamviewer.csproj.GenerateResource.Cache
+D:\Teamviewer\Teamviewer\obj\Debug\Teamviewer.exe
+D:\Teamviewer\Teamviewer\obj\Debug\Teamviewer.pdb
+D:\Teamviewer\Teamviewer\obj\Debug\Teamviewer.csprojResolveAssemblyReference.cache
